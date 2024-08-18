@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for an Full stack internship in Summer 2024
 - 🌱 I’m currently learning Spring framework
 - 📫 How to reach me: hale0087@uni.sydney.edu.au
-- ⚡ Fun fact: I'm eager to learn
+- ⚡ Fun fact: I'm a night-owl person
 
 ### :zap: GitHub Stats
 
