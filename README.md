@@ -1,7 +1,7 @@
 ### Hey, I'm Pierce Le - currently a SWE intern at VNPAY 👨‍💻
 
 - 🎓 I am a sophomore student at The University of Sydney, majoring in Computer Science and Software Development
-- 😄 I was a backend intern at FPT at June 2024 and React Plus Group at Dec 2023
+- 😄 I was a backend intern at FPT Software at June 2024 and React Plus Group at Dec 2023
 - 🔭 I’m currently looking for an Full stack internship in Summer 2024
 - 🌱 I’m currently learning Spring framework
 - 📫 How to reach me: hale0087@uni.sydney.edu.au
