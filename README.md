@@ -12,7 +12,7 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=PierceLe&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PierceLe&show_icons=true&hide=contribs,issues&hide_border=true&theme=cobalt" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierceLe&layout=compact&show_icons=true&hide_border=true" />
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PierceLe&" alt="PierceLe" /></p>
   </td>
