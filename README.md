@@ -39,6 +39,7 @@
 
 ### **Backend Development**
 <p align="left">
+  <a href="https://netty.io/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/d2f75b96a9f947507903f28b3097532ced95d2ca483a6abf56bddec87e056cd0/687474703a2f2f64657369676e2e6a626f73732e6f72672f6e657474792f6c6f676f2f66696e616c2f6e657474795f6c6f676f5f36303070782e706e67" alt="Netty" width="40" height="40"/> </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
